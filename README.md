@@ -1,7 +1,10 @@
 # CloudComputingAs3
 1.Create a HTML file and create a canvas.
+
 2.Download the ML model files and upload it in Github.
+
 3.Go to website and download the file --> www.googlecloudplatform.com
+
 4.Sign with the Google cloud platform.
 5.select the project created before in google cloud platform.
 6.Deploy the project using the name.
